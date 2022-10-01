@@ -7,6 +7,6 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		System.out.print("Hello old World!");// your code goes here
+		System.out.print("Hello old2 World!");// your code goes here
 	}
 }
